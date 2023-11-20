@@ -1,0 +1,18 @@
+.Form{
+    font-size: small;
+    padding: 5px;
+    text-align: initial;
+}
+.tansactionHistory{
+    color: white;
+    font-size: 20;
+}
+.arrow2{
+    cursor: pointer;
+    margin-right:55px ;
+    margin-top: 5px;
+    float: right;
+    color: white;
+
+}
+
